@@ -55,10 +55,13 @@ The citations will be printed to the console.
 
 `/citations`: Returns citations for all objects retrieved from the API.
 
+<<<<<<< HEAD
 ## Credits
 
 This project is developed as part of the assignment by BeyondChats.
 
+=======
+>>>>>>> 09aed04 (Updates)
 ## License
 
 [MIT License](LICENSE)
