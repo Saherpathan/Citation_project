@@ -3,7 +3,7 @@
 # Python Citation Project
 
 ## Description
-This project is a Python script that fetches data from a paginated API endpoint provided by BeyondChats. It identifies sources for each response and returns the citations as a JSON array. Additionally, there is an optional Flask app provided for a user-friendly interface to access the citations.
+A Python script fetches data from a paginated API endpoint provided by BeyondChats. It identifies sources for each response and returns the citations as a JSON array. Additionally, there is an optional Flask app provided for a user-friendly interface to access the citations.
 
 ## Setup
 
